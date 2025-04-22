@@ -1,0 +1,6 @@
+Country,Age,Gender,Education Level,BMI,Physical Activity Level,Smoking Status,Alcohol Consumption,Diabetes,Hypertension,Cholesterol Level,Family History of Alzheimer’s,Cognitive Test Score,Depression Level,Sleep Quality,Dietary Habits,Air Pollution Exposure,Employment Status,Marital Status,Genetic Risk Factor (APOE-ε4 allele),Social Engagement Level,Income Level,Stress Levels,Urban vs Rural Living
+India,70,Male,16,24.5,Medium,Never,Occasionally,Yes,Yes,Normal,Yes,75,Low,Good,Balanced,Medium,Retired,Married,Yes,Medium,Low,Medium,Urban
+USA,65,Female,14,28.0,Low,Former,Never,No,Yes,High,No,82,Medium,Average,Unhealthy,Low,Unemployed,Single,No,Low,Medium,Low,Rural
+UK,80,Female,18,22.7,High,Current,Regularly,No,No,Low,Yes,65,High,Poor,Balanced,High,Retired,Widowed,Yes,High,High,High,Urban
+Germany,74,Male,12,30.2,Medium,Never,Occasionally,Yes,No,High,Yes,70,Low,Good,Unhealthy,Medium,Retired,Married,No,Low,Medium,Medium,Urban
+Japan,68,Female,15,26.8,Low,Current,Never,No,Yes,Normal,No,78,Medium,Average,Balanced,Low,Unemployed,Single,Yes,High,High,Low,Rural
