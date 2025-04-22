@@ -46,15 +46,3 @@ Make a prediction app for doctors and patients
 
 Improve model accuracy with expert input
 
-# Tools Used
-Python
-
-Pandas
-
-Seaborn & Matplotlib
-
-Scikit-learn
-
-SMOTE for class balancing
-
-GridSearchCV for tuning
